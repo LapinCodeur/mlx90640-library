@@ -1,7 +1,7 @@
 # mlx90640-library
 
 This Melexis MLX90640 library's was written for use with the Raspberry Pi and the [MLX90640 breakout](https://shop.pimoroni.com/products/mlx90640-thermal-camera-breakout).
-
+It gives you the possibility to interface with the kernel to expose the video flux to all applications as it was a webcam.
 
 ### Generic Linux I2C Mode
 
